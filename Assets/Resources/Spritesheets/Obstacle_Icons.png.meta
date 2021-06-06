@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: b6e00e68ec2087543b9d9f5a30b6e67f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3514610495750809959
+    second: Frog_Death_0
+  - first:
+      213: 6857875440952672117
+    second: Frog_Death_1
+  - first:
+      213: 1548406766730895768
+    second: Frog_Death_2
+  - first:
+      213: -8441861744003561856
+    second: Frog_Death_3
+  - first:
+      213: -380421938868709149
+    second: Frog_Death_4
+  - first:
+      213: 4591258576901183672
+    second: Frog_Death_5
+  - first:
+      213: 1562861055500950142
+    second: Frog_Death_6
+  - first:
+      213: 4714545661837296790
+    second: Frog_Icon_0
+  - first:
+      213: -7195889630798915083
+    second: Frog_Icon_1
+  - first:
+      213: -6223232647493737260
+    second: Log_Piece_Right
+  - first:
+      213: -5114810278755792913
+    second: Obstacle_Icons_10
+  - first:
+      213: -6761335665487134219
+    second: Obstacle_Icons_11
+  - first:
+      213: 638118324729689691
+    second: Obstacle_Icons_12
+  - first:
+      213: 5914650346255755327
+    second: Obstacle_Icons_13
+  - first:
+      213: 5431230511431975197
+    second: Obstacle_Icons_14
+  - first:
+      213: 9052634765923861844
+    second: Obstacle_Icons_15
+  - first:
+      213: -4351929033160779863
+    second: Car_0
+  - first:
+      213: 1966453077084854977
+    second: Car_1
+  - first:
+      213: -863853301627583355
+    second: Car_2
+  - first:
+      213: 2655915159460934784
+    second: Car_3
+  - first:
+      213: -9205040914675245106
+    second: Obstacle_Icons_20
+  - first:
+      213: -5912110028167074701
+    second: Obstacle_Icons_21
+  - first:
+      213: 4608981370908387221
+    second: Log_Piece_1
+  - first:
+      213: 6632546304994008260
+    second: Obstacle_Icons_23
+  - first:
+      213: 1997059142715529669
+    second: Obstacle_Icons_24
+  - first:
+      213: -8164794108058271667
+    second: Obstacle_Icons_25
+  - first:
+      213: 7310296789447655147
+    second: Car_4
+  - first:
+      213: -3921634585154584178
+    second: Obstacle_Icons_27
+  - first:
+      213: 1500073845458439581
+    second: Obstacle_Icons_28
+  - first:
+      213: -147479388163822542
+    second: Obstacle_Icons_29
+  - first:
+      213: 5829885405207403645
+    second: Obstacle_Icons_30
+  - first:
+      213: 3645024507100323183
+    second: Gator_0
+  - first:
+      213: -7580905765520145618
+    second: Obstacle_Icons_32
+  - first:
+      213: 6000183642237607767
+    second: Obstacle_Icons_33
+  - first:
+      213: -8992057762735781917
+    second: Gator_1
+  - first:
+      213: 7128656242882723063
+    second: Obstacle_Icons_35
+  - first:
+      213: -1543367988444671426
+    second: Obstacle_Icons_36
+  - first:
+      213: -4876301515953539009
+    second: Obstacle_Icons_37
+  - first:
+      213: -1370364151258882821
+    second: Obstacle_Icons_38
+  - first:
+      213: 405327600343830931
+    second: Obstacle_Icons_39
+  - first:
+      213: -5163324083002445039
+    second: Obstacle_Icons_40
+  - first:
+      213: -3727234733642952125
+    second: Obstacle_Icons_41
+  - first:
+      213: 3928025748178835165
+    second: Obstacle_Icons_42
+  - first:
+      213: -20977519959072808
+    second: Obstacle_Icons_43
+  - first:
+      213: 1293666280797955261
+    second: Turtle_0
+  - first:
+      213: -173710405048819360
+    second: Turtle_1
+  - first:
+      213: -7626202368035207598
+    second: Turtle_2
+  - first:
+      213: -4048813688736537516
+    second: Turtle_3
+  - first:
+      213: 9068259145407565665
+    second: Turtle_4
+  - first:
+      213: 2896956838440657961
+    second: Gator_Nose_0
+  - first:
+      213: -7711827286847194630
+    second: Gator_Nose_1
+  - first:
+      213: -186764478299759337
+    second: Snake_0
+  - first:
+      213: -1360900168935270556
+    second: Log_Piece_Mid
+  - first:
+      213: 5686721274281930975
+    second: Snake_1
+  - first:
+      213: 1280176048736573909
+    second: Snake_2
+  - first:
+      213: -7924760165275005807
+    second: Obstacle_Icons_55
+  - first:
+      213: -55429302228856660
+    second: Obstacle_Icons_56
+  - first:
+      213: 3766077939394997488
+    second: Obstacle_Icons_57
+  - first:
+      213: 4258078788434005010
+    second: Obstacle_Icons_58
+  - first:
+      213: -2398381957256250454
+    second: Obstacle_Icons_59
+  - first:
+      213: 6809416224612532769
+    second: Obstacle_Icons_60
+  - first:
+      213: 7198820298425350796
+    second: Obstacle_Icons_61
+  - first:
+      213: 3939944422198922534
+    second: Obstacle_Icons_62
+  - first:
+      213: -2601979656545224894
+    second: Obstacle_Icons_63
+  - first:
+      213: -8085188464386371285
+    second: Obstacle_Icons_64
+  - first:
+      213: 4669725772492055077
+    second: Obstacle_Icons_65
+  - first:
+      213: -2012468892865888156
+    second: Obstacle_Icons_66
+  - first:
+      213: 8516729015064702158
+    second: Obstacle_Icons_67
+  - first:
+      213: -930628132451611516
+    second: Obstacle_Icons_68
+  - first:
+      213: -1182565775349488668
+    second: Obstacle_Icons_69
+  - first:
+      213: -6937033015881416578
+    second: Obstacle_Icons_70
+  - first:
+      213: -5085865842721978715
+    second: Obstacle_Icons_71
+  - first:
+      213: 8087261203643716764
+    second: Obstacle_Icons_72
+  - first:
+      213: 836134877028638548
+    second: Obstacle_Icons_73
+  - first:
+      213: -3845811115600864645
+    second: Obstacle_Icons_74
+  - first:
+      213: -2754716518989567290
+    second: Obstacle_Icons_75
+  - first:
+      213: -6023546976804191824
+    second: Obstacle_Icons_76
+  - first:
+      213: -9068397028925787379
+    second: Obstacle_Icons_77
+  - first:
+      213: 7200317347659314728
+    second: Obstacle_Icons_78
+  - first:
+      213: 4367350285200525165
+    second: Obstacle_Icons_79
+  - first:
+      213: 4558014004894455535
+    second: Obstacle_Icons_80
+  - first:
+      213: 7521946917341310661
+    second: Obstacle_Icons_81
+  - first:
+      213: 4427421795742111932
+    second: Obstacle_Icons_82
+  - first:
+      213: -6139429339669568546
+    second: Obstacle_Icons_83
+  - first:
+      213: 3293269772900502260
+    second: Obstacle_Icons_84
+  - first:
+      213: 4554340060654792763
+    second: Obstacle_Icons_85
+  - first:
+      213: 7422134416037218358
+    second: Obstacle_Icons_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frog_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d9e41068993fc0800000000000000
+      internalID: -3514610495750809959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ffbd301611c2f50800000000000000
+      internalID: 6857875440952672117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916ec220cb0d7510800000000000000
+      internalID: 1548406766730895768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08645b1887b78da80800000000000000
+      internalID: -8441861744003561856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e817fc134878baf0800000000000000
+      internalID: -380421938868709149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81924a95d67bf30800000000000000
+      internalID: 4591258576901183672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Death_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1d6e79d560b510800000000000000
+      internalID: 1562861055500950142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694cb2bfc4e6d6140800000000000000
+      internalID: 4714545661837296790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Icon_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f950599180132c90800000000000000
+      internalID: -7195889630798915083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log_Piece_Right
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a58311e2a2a9a0800000000000000
+      internalID: -6223232647493737260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71eb21a97da93c0800000000000000
+      internalID: -4351929033160779863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadd17a7ae3a4b10800000000000000
+      internalID: 1966453077084854977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848072cff9f204f0800000000000000
+      internalID: -863853301627583355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847e3114c4bbd420800000000000000
+      internalID: 2655915159460934784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log_Piece_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597236d232466ff30800000000000000
+      internalID: 4608981370908387221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 59
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb4b9c234637560800000000000000
+      internalID: 7310296789447655147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gator_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dde4f1a7ab59230800000000000000
+      internalID: 3645024507100323183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gator_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e707545b1bc53380800000000000000
+      internalID: -8992057762735781917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ecd4d0a604f110800000000000000
+      internalID: 1293666280797955261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a6459e4bd69df0800000000000000
+      internalID: -173710405048819360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c4040a594a2690800000000000000
+      internalID: -7626202368035207598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ae11d669bfc7c0800000000000000
+      internalID: -4048813688736537516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8435a5ade8dd70800000000000000
+      internalID: 9068259145407565665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gator_Nose_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e4e455ee043820800000000000000
+      internalID: 2896956838440657961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gator_Nose_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9fe4e01f51af490800000000000000
+      internalID: -7711827286847194630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d184e42ba786df0800000000000000
+      internalID: -186764478299759337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log_Piece_Mid
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 38
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46718d7b18c1d1de0800000000000000
+      internalID: -1360900168935270556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03b329eda4bee40800000000000000
+      internalID: 5686721274281930975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d918ea655914c110800000000000000
+      internalID: 1280176048736573909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
